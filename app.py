@@ -1,12 +1,11 @@
 import os
 from BBWebFw import webApp
 from BBWebFw.FileRenderer import Template
-import os
 import random
 import firebase_admin
 from firebase_admin import db, storage
 
-cred_obj = firebase_admin.credentials.Certificate(os.environ['fbAdmCertificate'])
+cred_obj = firebase_admin.credentials.Certificate("pwastore-c1ed2-firebase-adminsdk-s9p9l-77ba9c52d5.json")
 fb = firebase_admin.initialize_app(cred_obj,{"databaseURL": "https://pwastore-c1ed2-default-rtdb.firebaseio.com/",})
 rootRef = db.reference("/")
 
