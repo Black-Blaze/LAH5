@@ -180,3 +180,14 @@ hr {
     width: 75px;
     transition: 300ms ease-in-out;
 }
+
+#install{
+  font-family: monospace;
+  font-size: 1rem;
+  width:100px;
+  height: 35px;
+  border:none;
+  background: lightseagreen;
+margin-top: 1rem;
+border-rad
+}
