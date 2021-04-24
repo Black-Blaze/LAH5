@@ -986,3 +986,35 @@ Response Code:200
 35.191.9.214 - - [2021-04-24 07:30:36]GET
 Request:/service-worker.js
 Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:13]GET
+Request:/
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:13]GET
+Request:/js/index.js
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:13]GET
+Request:/css/style-index.css
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:15]GET
+Request:/service-worker.js
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:59]GET
+Request:/
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:59]GET
+Request:/css/style-index.css
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:31:59]GET
+Request:/js/index.js
+Response Code:200
+
+35.191.9.214 - - [2021-04-24 07:32:01]GET
+Request:/service-worker.js
+Response Code:200
