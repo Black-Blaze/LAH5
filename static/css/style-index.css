@@ -191,3 +191,6 @@ hr {
 margin-top: 1rem;
 border-radius:0.3rem;
 }
+#install:hover{
+background:lightblue;
+}
